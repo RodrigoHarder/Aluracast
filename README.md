@@ -14,7 +14,7 @@ Desenvolvimento da página inicial da  Aluracast. O projeto foi desenvolvido ao 
 ## **Aprendizagens** 
 
 - Identificação dos elementos grid-container e grid-itens no arquivo HTML e aplicação das propriedades do grid referentes a cada um deles;
-- Porpriedades: `grid-template-columns`, `grid-template-rows` , `row-gap` , `column-gap` , `grid-template-area`, `grid-area`, `grid-column`, `grid-row`, propriedade `repeat()`;
+- Propriedades: `grid-template-columns`, `grid-template-rows` , `row-gap` , `column-gap` , `grid-template-area`, `grid-area`, `grid-column`, `grid-row`, propriedade `repeat()`;
 - Compreensão sobre grid lines e como posicionar os elementos nas grid areas;
 - Uso de minmax de forma avançada para garantir o posicionamento dos itens de forma responsiva sem utilizar o media query;
 - Uso de variáveis CSS de forma avançada;
