@@ -19,10 +19,6 @@ Desenvolvimento da página inicial da  Aluracast. O projeto foi desenvolvido ao 
 - Uso de minmax de forma avançada para garantir o posicionamento dos itens de forma responsiva sem utilizar o media query;
 - Uso de variáveis CSS de forma avançada;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/aluracast/).
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
